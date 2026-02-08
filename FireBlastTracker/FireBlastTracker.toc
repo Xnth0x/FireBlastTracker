@@ -1,0 +1,7 @@
+## Interface: 110207, 120000, 120001
+## Title: Fire Blast Tracker
+## Notes: Tracks FireBlast charges as bars
+## Author: Xinthi
+## Version: 0.1
+
+Core.lua
